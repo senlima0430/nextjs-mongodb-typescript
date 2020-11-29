@@ -1,0 +1,1 @@
+nextjs-mongodb-typescript
